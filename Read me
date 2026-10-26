@@ -1,0 +1,2 @@
+•	Performed EDA and data cleaning (null handling, paise-to-rupee conversion) on a real scraped quick-commerce catalog dataset from Zepto.
+•	Wrote SQL business queries on pricing inconsistencies, stock-out frequency, inventory turnover, and category revenue drivers.
