@@ -1,2 +1,7 @@
 •	Performed EDA and data cleaning (null handling, paise-to-rupee conversion) on a real scraped quick-commerce catalog dataset from Zepto.
 •	Wrote SQL business queries on pricing inconsistencies, stock-out frequency, inventory turnover, and category revenue drivers.
+SQL_Data Data cleaning file showcases the data cleaning 
+SQL_dataAnalysis showcases the queries executed for analysis
+Zepto.Analysis.DOc shares the snipet of all the queries and results in pdf format
+Inventory and Pricing report is the report prepared for business.
+Zepto_v2.CSV is the original dataset
